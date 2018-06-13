@@ -1,0 +1,32 @@
+msgid "id"
+msgstr "Id"
+
+msgid "name"
+msgstr "Nom"
+
+msgid "created"
+msgstr "Créé le"
+
+msgid "modified"
+msgstr "Modifié le"
+
+msgid "/Groups/view/{{id}}"
+msgstr "Voir"
+
+msgid "View group « {{name}} » (#{{id}})"
+msgstr "Voir le groupe « {{name}} »"
+
+msgid "/Groups/edit/{{id}}"
+msgstr "Modifier"
+
+msgid "Edit group « {{name}} » (#{{id}})"
+msgstr "Modifier le groupe « {{name}} »"
+
+msgid "/Groups/delete/{{id}}"
+msgstr "Supprimer"
+
+msgid "Delete group « {{name}} » (#{{id}})"
+msgstr "Supprimer le groupe « {{name}} »"
+
+msgid "Really delete group « {{name}} » (#{{id}})?"
+msgstr "Réellement supprimer le groupe « {{name}} »?"

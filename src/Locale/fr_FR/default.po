@@ -1,0 +1,17 @@
+msgid "<< first"
+msgstr "<< Début"
+
+msgid "<< Previous"
+msgstr "< Précédente"
+
+msgid "Next >>"
+msgstr "Suivante >"
+
+msgid "last >>"
+msgstr "Fin >>"
+
+msgid "No record was found"
+msgstr "Aucun résultat"
+
+msgid "Page {{page}} out of {{pages}}, showing {{current}} records out of {{count}}"
+msgstr "Page {{page}} sur {{pages}} - {{current}} enregistrements parmi {{count}}"
